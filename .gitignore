@@ -1,0 +1,4 @@
+.env
+flagged/
+persist_path/
+__pycache__/
